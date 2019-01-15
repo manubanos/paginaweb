@@ -16,7 +16,7 @@ header, footer, .main{
 }
 
 header nav{
-    background: #009fe0;
+    background: #129700;
     overflow: hidden; /*oculta el contenido que sobrepasa nuestro contenedor y limpia float left*/
 }
 
@@ -55,7 +55,6 @@ aside{
     background: #6b6d6d;
     float:left;
     color:#fff;
-    text-align: center;
     padding: 10px;
     box-sizing: border-box; /*para que no se salga*/
 }
@@ -85,7 +84,7 @@ form{
     border: 2px solid #ccc;
     margin: 20px;
     padding: 20px;
-    background: #009fe0;
+    background: #129700;
     border-radius: 10px;
 
 }
